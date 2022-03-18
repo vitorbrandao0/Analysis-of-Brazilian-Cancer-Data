@@ -18,3 +18,5 @@ Na sequência, fizemos a análise das cinco morfologias de câncer com maior inc
 
 Desse modo, fizemos uma análise exploratória das causas de morte de pessoas diagnosticadas com câncer, obtendo que 6,6% delas falecem de causas diferentes do próprio câncer e 3,3% não possuem a causa da morte registrada. De forma complementar, foi feita e graficamente representada uma comparação entre a frequência de morte por câncer e alguma causa diferente nos diferentes centros de tratamento, juntamente com uma tabela mostrando as taxas de morte por câncer por centro de tratamento em pacientes com a doença.
 
+Por fim, realizamos um oversampling para balancear os dados, seguido de train e test. Em seguida, obtivemos o score de ~65.5%, o que não é um valor satisfatório para o modelo. E ao realizar o plot da árvore de decisões, foi observado que o DataFrame não é adequado para um modelo de predição, já que o conjunto de dados possui uma pobreza quantitativa e grande desbalanceamento dos dados, o qual não foi possível solucionar com oversampling.
+# Discussão sobre os problemas relacionados à árvore de decisões e modelo de predição: 
