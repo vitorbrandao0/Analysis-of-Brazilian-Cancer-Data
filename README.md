@@ -20,3 +20,4 @@ Desse modo, fizemos uma análise exploratória das causas de morte de pessoas di
 
 Por fim, realizamos um oversampling para balancear os dados, seguido de train e test. Em seguida, obtivemos o score de ~65.5%, o que não é um valor satisfatório para o modelo. E ao realizar o plot da árvore de decisões, foi observado que o DataFrame não é adequado para um modelo de predição, já que o conjunto de dados possui uma pobreza quantitativa e grande desbalanceamento dos dados, o qual não foi possível solucionar com oversampling.
 # Discussão sobre os problemas relacionados à árvore de decisões e modelo de predição: 
+
