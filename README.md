@@ -14,4 +14,7 @@ Inicialmente, na sessão "Incidência de câncer por idade", retiramos as idades
 
 Em seguida, realizamos a análise exploratória para as incidências de diferentes morfologias nos indivíduos com diferentes gêneros. Tivemos que adicionar um terceiro gênero "IGNORADO" devido à falta de registro de alguns indivíduos no conjunto de dados. Isso ocorre devido à escolha do indivíduo preferir não informar seu gênero ou não ter ocorrido a coleta dessa informação ao admitir o paciente. Com isso, obtivemos que ADENOCARCINOMA é a morfologia mais comum no sexo masculino, CARCINOMA DUCTAL INFILTRANTE é a mais comum no sexo feminino e CARCINOMA BASOCELULAR no gênero ignorado (o que não é um dado estatísticamente significativo). 
 
-Na sequência, fizemos a análise
+Na sequência, fizemos a análise das cinco morfologias de câncer com maior incidência de morte, de acordo com os valores absolutos de morte por câncer em todos os centros de tratamento analisados, e a representação gráfica dessa análise, sendo NEOPLASIA MALIGNA a que mais causou mortes.
+
+Desse modo, fizemos uma análise exploratória das causas de morte de pessoas diagnosticadas com câncer, obtendo que 6,6% delas falecem de causas diferentes do próprio câncer e 3,3% não possuem a causa da morte registrada. De forma complementar, foi feita e graficamente representada uma comparação entre a frequência de morte por câncer e alguma causa diferente nos diferentes centros de tratamento, juntamente com uma tabela mostrando as taxas de morte por câncer por centro de tratamento em pacientes com a doença.
+
