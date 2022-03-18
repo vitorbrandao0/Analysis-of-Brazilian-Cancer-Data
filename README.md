@@ -22,4 +22,7 @@ Por fim, os dados foram separados em train e test, o score foi analisado e o mod
   # Discussão sobre os problemas relacionados à árvore de decisões e modelo de predição: 
   Após o treino do modelo, verificamos o score pelo método de Hold-out. Ao analisar o score, foi possível constatar que o mesmo não se mostra satisfatório, uma vez que   esse valor está muito distante do ideal (65,5%). Mesmo após realizar um OverSampling ou um UnderSampling, não são encontrados resultados satisfatórios, o que nos       leva a concluir que o DataFrame não é bem estruturado para o modelo de predição, uma vez que apresenta uma pobreza de dados quantitativos, bem como um grande           desbalanceamento nos dados alvo. Desta forma, não foi encontrado um resultado adequado e, portanto, o modelo implementado não é confiável para predizer a causa da     morte dos pacientes diagnosticados com câncer. 
    
+
+
+
 Gustavo Locatelli Helena & Vitor Melo Brandão
