@@ -25,4 +25,4 @@ Por fim, os dados foram separados em train e test, o score foi analisado e o mod
 
 
 
-Gustavo Locatelli Helena & Vitor Melo Brandão
+Vitor Melo Brandão
